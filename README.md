@@ -21,13 +21,13 @@ If you already have a good idea of how to start this based on previous labs, go 
 
   #### Try to get a feel for the shape of the data by adding the three puts statements below to the challenge.js file:
 
-  ```Ruby
-  # All the survey responses are stored in an array called "people".
+  ```javascript
+  // All the survey responses are stored in an array called "people".
   console.log(people)
   console.log("THE FIRST PERSON IS:")
   console.log(people[0])
   
-  # 1. Print out the name of the first person who responded to the survey
+  // 1. Print out the name of the first person who responded to the survey
   ```
 
   Then preview the data in the console when you preview the index.html.
@@ -36,9 +36,9 @@ If you already have a good idea of how to start this based on previous labs, go 
 
   That means the answer to challenge 1 will look something like this:
 
-  ```Ruby
-  # 1. Print out the name of the first person who responded to the survey
-  puts people[0]["some_string_here"]
+  ```javascript
+  // 1. Print out the name of the first person who responded to the survey
+  console.log(people[0]["some_string_here"])
   ```
 
 </details>
