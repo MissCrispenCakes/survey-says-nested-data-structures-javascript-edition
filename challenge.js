@@ -47,12 +47,12 @@ var people = [
 
 
 // 3a. For each person on this list, print out a descriptor of where they live.
-// It will look something like thsis: "____ lives in _____."
+// It will look something like this: "____ lives in _____."
 
 
 
 
-// 3b. Print out each person's nickname.
+// 3b. Print out each person's nickname. Use a full sentence like we did above.
 // BONUS: Write some control flow that determines whether / how to respond if someone didn't provide a nickname.
 
 
